@@ -1,12 +1,12 @@
-## Math for Language Science
+## Math for Language Science ##
 
 This repository documents my review and application of mathematical concepts essential for graduate study in Language Science and Technology. As a researcher transitioning from a humanities background (B.A. in History) into computational linguistics and cognitive modeling, I’ve designed this repo to bridge foundational math fluency with the formal methods expected in NLP, psycholinguistics, and cognitive systems.
 
-**Purpose**
+### Purpose ###
 
 Saarland University’s M.Sc. in Language Science and Technology expects applicants to demonstrate comfort with formal reasoning, probability, linear algebra, and algorithmic thinking. This repo serves as both a personal learning tracker and a public portfolio of my mathematical growth—showing how I’ve rebuilt fluency from algebra to calculus, and applied these concepts to language-focused problems.
 
-**Structure**
+### Structure ###
 
 Each folder represents a core mathematical domain, with concept summaries, annotated notebooks, and applied examples:
 
@@ -22,7 +22,7 @@ Each folder represents a core mathematical domain, with concept summaries, annot
 - `04_probability-statistics`  
   Probabilistic reasoning and statistical inference—central to ambiguity modeling and psycholinguistic analysis.
 
-**Certificates**
+### Certificates ### 
 
 - [Math for Machine Learning - Coursera Certificate](#) *(in progress)* 
 - [Linear Algebra from Elementary to Advanced Specialization - Coursera Certificate](#) *(in progress)* 
@@ -30,14 +30,3 @@ Each folder represents a core mathematical domain, with concept summaries, annot
 --
 
 This repo is a living document of my transition into technical scholarship. It reflects not just what I’ve learned, but how I’ve learned—and how I plan to build with it.
-
-# Main Title (H1)
-## Section Title (H2)
-### Subsection (H3)
-#### Smaller Heading (H4)
-
-**Bold**
-*Italic*
-~~Strikethrough~~
-`Inline code`
-> This is a quote or a highlighted note.
