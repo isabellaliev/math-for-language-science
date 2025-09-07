@@ -1,0 +1,1 @@
+This folder documents my foundational review of algebra and trigonometry, which supported my transition into linear algebra, calculus, and probabilistic modeling for NLP and cognitive systems.
