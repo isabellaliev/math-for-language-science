@@ -11,16 +11,16 @@ Saarland University’s M.Sc. in Language Science and Technology expects applica
 Each folder represents a core mathematical domain, with concept summaries, annotated notebooks, and applied examples:
 
 - `01_foundations`  
-  Algebra and trigonometry review—supporting formal reasoning and signal modeling.
+  Algebra and trigonometry review.
 
 - `02_linear-algebra`  
-  Vectors, matrices, and transformations—used in NLP embeddings and semantic spaces.
+  Vectors, matrices, and transformations. Used in NLP embeddings and semantic spaces.
 
 - `03_calculus`  
-  Derivatives and optimization—applied to learning algorithms and dynamic modeling.
+  Derivatives and optimization. Applied to learning algorithms and dynamic modeling.
 
 - `04_probability-statistics`  
-  Probabilistic reasoning and statistical inference—central to ambiguity modeling and psycholinguistic analysis.
+  Probabilistic reasoning and statistical inference. Central to ambiguity modeling and psycholinguistic analysis.
 
 ### Certificates ### 
 
