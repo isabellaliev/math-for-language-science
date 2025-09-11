@@ -4,7 +4,7 @@ This repository documents my review and application of mathematical concepts ess
 
 ### Purpose ###
 
-Saarland University’s M.Sc. in Language Science and Technology expects applicants to demonstrate comfort with formal reasoning, probability, linear algebra, and algorithmic thinking. This repo serves as both a personal learning tracker and a public portfolio of my mathematical growth—showing how I’ve rebuilt fluency from algebra to calculus, and applied these concepts to language-focused problems.
+Saarland University’s M.Sc. in Language Science and Technology expects applicants to demonstrate comfort with formal reasoning, probability, linear algebra, and algorithmic thinking. This repo serves as both a personal learning tracker and a public portfolio of my mathematical growth, showing how I’ve rebuilt fluency from algebra to calculus, and applied these concepts to language-focused problems.
 
 ### Structure ###
 
